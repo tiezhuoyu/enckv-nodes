@@ -3,8 +3,6 @@
 ip=$1
 nd_num=$2
 
-cd ~
-
 #make dir for nodes
 echo 'make dir for nodes'
 cd ~/enckv-nodes
